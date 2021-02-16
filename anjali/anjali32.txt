@@ -1,0 +1,12 @@
+topics i have revised today:
+python from scratch
+datatypes
+arthimetic operations
+logical operations
+comparision operations
+input string
+strings
+lists
+tuples
+dictionaries
+string and list slicing
