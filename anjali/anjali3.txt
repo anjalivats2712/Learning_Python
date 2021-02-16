@@ -9,4 +9,4 @@ strings
 lists
 tuples
 dictionaries
-string and list slicing
+string and list slicings
